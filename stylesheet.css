@@ -1,0 +1,59 @@
+.page {
+  width : 800px;
+  font-family: Garamond;
+}
+
+@font-face {
+font-family: "Police";
+src: url("dream orphans.ttf");
+}
+
+.nom {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.info {
+  font-size: 19px;
+  margin-left: 20px;
+}
+
+.icon {
+  height: 150px;
+  width: 150px;
+  float: right;
+}
+
+.section {
+  margin-bottom: 70px;
+  text-align: justify;
+  margin-left: 20px;
+}
+
+.gauche {
+  float: left;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.gauche p {
+  margin-bottom: 37px;
+}
+
+.droite {
+  margin-left: 150px;
+  margin-top: 37px;
+}
+
+.titre {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h2{
+  font-size: 28px;
+  color: #4169E1;
+  text-transform: uppercase;
+  border-bottom: 4px solid #4169E1;
+  font-family: "Police", serif;
+}

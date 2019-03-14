@@ -57,3 +57,12 @@ h2{
   border-bottom: 4px solid #4169E1;
   font-family: "Police", serif;
 }
+
+#distance, #frameRate {
+  display: none;
+}
+
+nav {
+  text-align: center;
+  font-size: 30px;
+}
